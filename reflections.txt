@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+	sup tag
+  * What has been easy?
+	Yes	
+  * What has been difficult?
+	none
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+	other website research
+---
+
+Your response goes here!
